@@ -92,13 +92,13 @@
 ## `3.1` البند الأوّل: سلّم الهيكليّة
 ### `3.1.1`	سلّم الهيكليّة العامّة
   
-![image](https://github.com/ibtikar-org-tr/bylaws/assets/54938173/2be83dce-dc45-42fc-8ea3-34a61d5a286a)
+![image](https://github.com/ibtikar-org-tr/bylaws/assets/54938173/114f5ed7-f8a4-4e73-8897-27fe9621fe6a)
 
 
 ### `3.1.2`	سلّم الهيكليّة الإداريّة
 
-![image](https://github.com/ibtikar-org-tr/bylaws/assets/54938173/86d987fb-5ec9-4a04-bfca-5974cade4cb4)
-![image](https://github.com/ibtikar-org-tr/bylaws/assets/54938173/f334cb5a-093a-42d7-927a-53d68f8f5385)
+![image](https://github.com/ibtikar-org-tr/bylaws/assets/54938173/954e0170-0877-4ef4-8be0-05f27c5b6da4)
+![image](https://github.com/ibtikar-org-tr/bylaws/assets/54938173/4fd3cc78-941f-4eda-b528-449a6a91b0fa)
 
  
  

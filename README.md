@@ -6,7 +6,7 @@
 #### ملحقات النظام الداخلي
 - الملف التعريفي: [![Static Badge](https://img.shields.io/badge/-intro-blue?logo=windowsterminal&logoColor=black&labelColor=white)](intro.pdf)
 -  أسئلة شائعة: [![Static Badge](https://img.shields.io/badge/-FAQ-purple?logo=qualcomm&logoColor=black&labelColor=white)](FAQ.md)
-- أرشيف النّظام الدّاخلي: [![Static Badge](https://img.shields.io/badge/-archive-gray?logo=internetarchive&logoColor=gray&labelColor=white)](https://link.ibtikar.org.tr/archive)
+-  النوادي الطلابية: [![Static Badge](https://img.shields.io/badge/beta-clubs-blue?logo=clubhouse&logoColor=blue&labelColor=white)](/clubs/beta/README.md)
 
 ### المحتوى
 | اضغط للوصول | الباب |
@@ -18,7 +18,7 @@
 
 
 
-# 1. الباب الأول: هويّة التجمع
+# `1` الباب الأول: هويّة التجمع
 
 ### البند الأول: التّعريف
   - **التّعريف نصّاً**:

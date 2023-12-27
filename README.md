@@ -6,7 +6,8 @@
 #### ملحقات النظام الداخلي
 - الملف التعريفي: [![Static Badge](https://img.shields.io/badge/-intro-blue?logo=windowsterminal&logoColor=black&labelColor=white)](intro.pdf)
 -  أسئلة شائعة: [![Static Badge](https://img.shields.io/badge/-FAQ-purple?logo=qualcomm&logoColor=black&labelColor=white)](FAQ.md)
--  النوادي الطلابية: [![Static Badge](https://img.shields.io/badge/beta-clubs-blue?logo=clubhouse&logoColor=blue&labelColor=white)](/clubs/beta/README.md)
+-  منصّة تكنوفست بالعربي: [![Static Badge](https://img.shields.io/badge/-TEKNOFEST__ar-FF4A17?logo=firebase&logoColor=FF4A17&labelColor=white)](TEKNOFEST_ar)
+-  الأندية الطلابية: [![Static Badge](https://img.shields.io/badge/beta-clubs-blue?logo=clubhouse&logoColor=blue&labelColor=white)](/clubs/beta/README.md)
 
 ### المحتوى
 | اضغط للوصول | الباب |

@@ -16,7 +16,6 @@
 - الملف التعريفي: [![Static Badge](https://img.shields.io/badge/intro-ar-27ae60?style=flat&logo=libreoffice&logoColor=27ae60&labelColor=white)](https://data.ibtikar.org.tr/documents/ar/intro.pdf) [![Static Badge](https://img.shields.io/badge/intro-tr-c0392b?style=flat&logo=libreoffice&logoColor=c0392b&labelColor=white)](https://data.ibtikar.org.tr/documents/tr/intro.pdf) [![Static Badge](https://img.shields.io/badge/intro-en-f1c40f?style=flat&logo=libreoffice&logoColor=f1c40f&labelColor=white)](https://data.ibtikar.org.tr/documents/en/intro.pdf)
 -  أسئلة شائعة: [![Static Badge](https://img.shields.io/badge/-FAQ-purple?logo=qualcomm&logoColor=black&labelColor=white)](FAQ.md)
 -  منصّة تكنوفست بالعربي: [![Static Badge](https://img.shields.io/badge/-TEKNOFEST__ar-FF4A17?logo=rocket&logoColor=FF4A17&labelColor=white)](TEKNOFEST_ar)
--  الأندية الطلابية: [![Static Badge](https://img.shields.io/badge/beta-clubs-blue?style=flat&logo=gitlab&logoColor=blue&labelColor=white)](/clubs/beta/README.md)
 
 
 ## المعرفات الرسمية للتجمع

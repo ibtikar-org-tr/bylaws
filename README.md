@@ -33,6 +33,7 @@
 
 [![Static Badge](https://img.shields.io/badge/instagram-ibtikar.mines-E4405F?style=flat&logo=instagram&logoColor=E4405F&labelColor=white)](https://www.instagram.com/ibtikar.mines)
 [![Static Badge](https://img.shields.io/badge/instagram-teknofest__ar-E4405F?style=flat&logo=instagram&logoColor=E4405F&labelColor=white)](https://www.instagram.com/teknofest_ar)
+[![Static Badge](https://img.shields.io/badge/instagram-ibtikar.syria-E4405F?style=flat&logo=instagram&logoColor=E4405F&labelColor=white)](https://www.instagram.com/ibtikar.syria)
 [![Static Badge](https://img.shields.io/badge/WhatsApp-%2B90_507_822_20_22-25D366?style=flat&logo=whatsapp&logoColor=25D366&labelColor=white)](https://wa.me/905078222022)
 
 

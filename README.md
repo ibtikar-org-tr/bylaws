@@ -164,7 +164,7 @@ subgraph 0 [الأمناء]
 BOT([أعضاء مجلس الأمناء])
 end
 
-BOT -..-o BOD{مدير مجلس الإدارة}
+BOT -..-o BOD{رئيس مجلس الإدارة}
 style BOT fill:white,stroke:black,stroke-width:3px,stroke-dasharray: 5 5
 style BOD stroke:black,stroke-width:2px
 
